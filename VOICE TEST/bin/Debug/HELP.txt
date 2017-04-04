@@ -1,0 +1,4 @@
+Voices - instaled voice engins
+SAY - say text
+SAVE - generate voice from text, and than save to this program folder
+Voice Speed - speed of saying text

@@ -1,0 +1,11 @@
+C:\Users\Helios\Documents\GitProjects\VOICE TEST\VOICE TEST\bin\Debug\Vosy.exe.config
+C:\Users\Helios\Documents\GitProjects\VOICE TEST\VOICE TEST\bin\Debug\Vosy.exe
+C:\Users\Helios\Documents\GitProjects\VOICE TEST\VOICE TEST\bin\Debug\Vosy.pdb
+C:\Users\Helios\Documents\GitProjects\VOICE TEST\VOICE TEST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Helios\Documents\GitProjects\VOICE TEST\VOICE TEST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Helios\Documents\GitProjects\VOICE TEST\VOICE TEST\obj\Debug\Vosy.csprojResolveAssemblyReference.cache
+C:\Users\Helios\Documents\GitProjects\VOICE TEST\VOICE TEST\obj\Debug\VOICE_TEST.Form1.resources
+C:\Users\Helios\Documents\GitProjects\VOICE TEST\VOICE TEST\obj\Debug\Vosy.Properties.Resources.resources
+C:\Users\Helios\Documents\GitProjects\VOICE TEST\VOICE TEST\obj\Debug\Vosy.csproj.GenerateResource.Cache
+C:\Users\Helios\Documents\GitProjects\VOICE TEST\VOICE TEST\obj\Debug\Vosy.exe
+C:\Users\Helios\Documents\GitProjects\VOICE TEST\VOICE TEST\obj\Debug\Vosy.pdb
